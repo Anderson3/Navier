@@ -33,6 +33,8 @@ O Navier permite cálcular como elementos:
 </ul>
 
 ## Imagens
+
+![image](https://user-images.githubusercontent.com/17939997/70842966-5d797000-1e09-11ea-8c71-8da9b6a17a4f.png)
 ![image](https://user-images.githubusercontent.com/17939997/70843053-9534e780-1e0a-11ea-8eb4-6caa118e6193.png)
 ![image](https://user-images.githubusercontent.com/17939997/70843057-abdb3e80-1e0a-11ea-8ce6-886ad7d0dc9d.png)
 ![image](https://user-images.githubusercontent.com/17939997/70843063-c2819580-1e0a-11ea-8450-c92c5fbc874b.png)
