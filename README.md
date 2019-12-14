@@ -1,5 +1,5 @@
 # Navier
-Software de cálculo de peças de concreto armado, baseado na NBR 6118/14.
+Software de cálculo de peças de concreto armado, baseado na NBR 6118/14. Desenvolvido com Python 3.7 + PyQt5.
 
 ## Pequena Descrição
 O Navier é um programa desenvolvido em Python com finalidade de produzir dados de dimensionamento de peças de Concreto Armado. Essa aplicação com finalidade para Desktops permite calcular Vigas, Pilares, Lajes e Sapatas analisando as peças de manaira isolada. Cada elemento estrutural é tratado no programa como um módulo de cálculo interno. O Navier se baseia nas condições normativas brasileiras de Concreto Armado, principalmente respaldadas através da ABNT NBR 6118/14. 
