@@ -1,0 +1,3939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>655</width>
+    <height>527</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTableWidget" name="tableWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>60</y>
+      <width>631</width>
+      <height>421</height>
+     </rect>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>631</width>
+      <height>421</height>
+     </size>
+    </property>
+    <row>
+     <property name="text">
+      <string>Aeroportos</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Arquibancadas e Tribunas</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Áreas Técnicas</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Balcões</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Bancos</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Bibliotecas</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Centros de convenções e locais de reunião de pessoas</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Centros de exposição</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Cinemas (não inclui cinemas de shopping centers)</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Clubes</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Coberturas (estrut. concreto armado, mistas e alv. estrt.)</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Cozinhas não residenciais</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Depósitos de uso geral</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Edifícios Residenciais </string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Edifícios comerciais</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Edificações industriais</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Escadas e passarelas</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Escolas, instituições de ensino</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Estações de passageiros</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Forros</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Garagens, estacionamentos</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Ginásios de esportes</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Helipontos</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Hospitais</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Hotéis</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Instituições penais</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Jardins</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Laboratórios</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Lavanderias não residenciais</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Lojas a , centros comerciais a , shopping centers</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Museus, galerias de arte</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Restaurantes</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Supermercados</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>Vestíbulos (acessos)</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string/>
+     </property>
+    </row>
+    <column>
+     <property name="text">
+      <string>Descrição</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Cargas</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </column>
+    <item row="0" column="0">
+     <property name="text">
+      <string>Áreas de acesso público, circulações, sanitários</string>
+     </property>
+    </item>
+    <item row="0" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="1" column="0">
+     <property name="text">
+      <string>Lojas, duty free</string>
+     </property>
+    </item>
+    <item row="1" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="2" column="0">
+     <property name="text">
+      <string>Controle de passaportes, segurança, raios X</string>
+     </property>
+    </item>
+    <item row="2" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="3" column="0">
+     <property name="text">
+      <string>
+Restituição de bagagens (não inclui o peso próprio dos equipamentos)</string>
+     </property>
+    </item>
+    <item row="3" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="4" column="0">
+     <property name="text">
+      <string>Áreas administrativas</string>
+     </property>
+    </item>
+    <item row="4" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="5" column="0">
+     <property name="text">
+      <string>Manipulação de bagagens (não inclui o peso próprio dos equipamentos)</string>
+     </property>
+    </item>
+    <item row="5" column="1">
+     <property name="text">
+      <string>10</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="6" column="0">
+     <property name="text">
+      <string>Áreas sujeitas ao tráfego de veículos</string>
+     </property>
+    </item>
+    <item row="6" column="1">
+     <property name="text">
+      <string>10</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="7" column="0">
+     <property name="text">
+      <string>Com assentos fixos</string>
+     </property>
+    </item>
+    <item row="7" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="8" column="0">
+     <property name="text">
+      <string>Sem assentos fixos</string>
+     </property>
+    </item>
+    <item row="8" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="9" column="0">
+     <property name="text">
+      <string>Barrilete</string>
+     </property>
+    </item>
+    <item row="9" column="1">
+     <property name="text">
+      <string>1,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="10" column="0">
+     <property name="text">
+      <string>Áreas técnicas em geral (fora da projeção dos equipamentos), exceto barrilete</string>
+     </property>
+    </item>
+    <item row="10" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="11" column="0">
+     <property name="text">
+      <string>Sala de ventiladores, pressurização, exaustores</string>
+     </property>
+    </item>
+    <item row="11" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="12" column="0">
+     <property name="text">
+      <string>Sala de ar-condicionado (fan coil)</string>
+     </property>
+    </item>
+    <item row="12" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="13" column="0">
+     <property name="text">
+      <string>Sala de painéis elétricos de baixa tensão</string>
+     </property>
+    </item>
+    <item row="13" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="14" column="0">
+     <property name="text">
+      <string>Sala de gerador e transformador (com leiaute)</string>
+     </property>
+    </item>
+    <item row="14" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="15" column="0">
+     <property name="text">
+      <string>Sala de gerador e transformador (sem leiaute)</string>
+     </property>
+    </item>
+    <item row="15" column="1">
+     <property name="text">
+      <string>10</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="16" column="0">
+     <property name="text">
+      <string>Sala de no-breaks</string>
+     </property>
+    </item>
+    <item row="16" column="1">
+     <property name="text">
+      <string>7,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="17" column="0">
+     <property name="text">
+      <string>Sala de baterias</string>
+     </property>
+    </item>
+    <item row="17" column="1">
+     <property name="text">
+      <string>10</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="18" column="0">
+     <property name="text">
+      <string>CPD (centro de processamento de dados)</string>
+     </property>
+    </item>
+    <item row="18" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="19" column="0">
+     <property name="text">
+      <string>Casa de máquinas de elevador de passageiros (v ≤ 1,0 m/s)</string>
+     </property>
+    </item>
+    <item row="19" column="1">
+     <property name="text">
+      <string>30</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="20" column="0">
+     <property name="text">
+      <string>Casa de máquinas de elevador de passageiros (v &gt; 1,0 m/s)</string>
+     </property>
+    </item>
+    <item row="20" column="1">
+     <property name="text">
+      <string>50</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="21" column="0">
+     <property name="text">
+      <string>Poço de elevador de passageiros</string>
+     </property>
+    </item>
+    <item row="21" column="1">
+     <property name="text">
+      <string>50</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="22" column="0">
+     <property name="text">
+      <string>Poço de plataforma de elevação motorizada para pessoas com mobilidade reduzida</string>
+     </property>
+    </item>
+    <item row="22" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="23" column="0">
+     <property name="text">
+      <string>Residencial</string>
+     </property>
+    </item>
+    <item row="23" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="24" column="0">
+     <property name="text">
+      <string>Comercial, corporativos e escritórios</string>
+     </property>
+    </item>
+    <item row="24" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="25" column="0">
+     <property name="text">
+      <string>Com acesso público (hotéis, hospitais, escolas, teatros etc.)</string>
+     </property>
+    </item>
+    <item row="25" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="26" column="0">
+     <property name="text">
+      <string>Escritórios</string>
+     </property>
+    </item>
+    <item row="26" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="27" column="0">
+     <property name="text">
+      <string>Sanitários</string>
+     </property>
+    </item>
+    <item row="27" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="28" column="0">
+     <property name="text">
+      <string>Salas de diretoria e de gerência</string>
+     </property>
+    </item>
+    <item row="28" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="29" column="0">
+     <property name="text">
+      <string>Cofre (validar caso a caso, respeitando o valor mínimo indicado nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="29" column="1">
+     <property name="text">
+      <string>30</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="30" column="0">
+     <property name="text">
+      <string>Agência (área de atendimento ao público)</string>
+     </property>
+    </item>
+    <item row="30" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="31" column="0">
+     <property name="text">
+      <string>Regiões de arquivos deslizantes</string>
+     </property>
+    </item>
+    <item row="31" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="32" column="0">
+     <property name="text">
+      <string>Região de terminais de autoatendimento, caixas eletrônicos</string>
+     </property>
+    </item>
+    <item row="32" column="1">
+     <property name="text">
+      <string>12</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="33" column="0">
+     <property name="text">
+      <string>Áreas técnicas (ver item Áreas Técnicas nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="33" column="1">
+     <property name="text">
+      <string>12</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="34" column="0">
+     <property name="text">
+      <string>Centro de processamento de dados (ver Áreas técnicas)</string>
+     </property>
+    </item>
+    <item row="34" column="1">
+     <property name="text">
+      <string>12</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="35" column="0">
+     <property name="text">
+      <string>Sala de leitura (sem estantes)</string>
+     </property>
+    </item>
+    <item row="35" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="36" column="0">
+     <property name="text">
+      <string>Sala de leitura (com estantes)</string>
+     </property>
+    </item>
+    <item row="36" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="37" column="0">
+     <property name="text">
+      <string>Sala com estantes de livros i</string>
+     </property>
+    </item>
+    <item row="37" column="1">
+     <property name="text">
+      <string>6 kN/m 2 para estantes até 2,2 m de altura + 2 kN/m 2 por metro de altura de estante que ultrapassar 2,2 m</string>
+     </property>
+    </item>
+    <item row="38" column="0">
+     <property name="text">
+      <string>Regiões de arquivos deslizantes</string>
+     </property>
+    </item>
+    <item row="38" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="39" column="0">
+     <property name="text">
+      <string>Salas administrativas</string>
+     </property>
+    </item>
+    <item row="39" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="40" column="0">
+     <property name="text">
+      <string>Sanitários</string>
+     </property>
+    </item>
+    <item row="40" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="41" column="0">
+     <property name="text">
+      <string>Corredores</string>
+     </property>
+    </item>
+    <item row="41" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="42" column="0">
+     <property name="text">
+      <string>Plateia com assentos fixos</string>
+     </property>
+    </item>
+    <item row="42" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="43" column="0">
+     <property name="text">
+      <string>Plateia com assentos móveis</string>
+     </property>
+    </item>
+    <item row="43" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="44" column="0">
+     <property name="text">
+      <string>Sanitários</string>
+     </property>
+    </item>
+    <item row="44" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="45" column="0">
+     <property name="text">
+      <string>Acessos, corredores</string>
+     </property>
+    </item>
+    <item row="45" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="46" column="0">
+     <property name="text">
+      <string>Plataformas (assembleia)</string>
+     </property>
+    </item>
+    <item row="46" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="47" column="0">
+     <property name="text">
+      <string>Palco (área de apresentação)</string>
+     </property>
+    </item>
+    <item row="47" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="48" column="0">
+     <property name="text">
+      <string>Acesso exclusivo de pessoas</string>
+     </property>
+    </item>
+    <item row="48" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="49" column="0">
+     <property name="text">
+      <string>Área de estandes de exposição</string>
+     </property>
+    </item>
+    <item row="49" column="1">
+     <property name="text">
+      <string>10</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="50" column="0">
+     <property name="text">
+      <string>Área de exposição de veículos e equipamentos</string>
+     </property>
+    </item>
+    <item row="50" column="1">
+     <property name="text">
+      <string>30</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="51" column="0">
+     <property name="text">
+      <string>Plateia com assentos fixos</string>
+     </property>
+    </item>
+    <item row="51" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="52" column="0">
+     <property name="text">
+      <string>Sanitários</string>
+     </property>
+    </item>
+    <item row="52" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="53" column="0">
+     <property name="text">
+      <string>Acessos, corredores</string>
+     </property>
+    </item>
+    <item row="53" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="54" column="0">
+     <property name="text">
+      <string>Refeitórios</string>
+     </property>
+    </item>
+    <item row="54" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="55" column="0">
+     <property name="text">
+      <string>Sala de assembleia com assentos fixos</string>
+     </property>
+    </item>
+    <item row="55" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="56" column="0">
+     <property name="text">
+      <string>Sala de assembleia com assentos móveis</string>
+     </property>
+    </item>
+    <item row="56" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="57" column="0">
+     <property name="text">
+      <string>Academia</string>
+     </property>
+    </item>
+    <item row="57" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="58" column="0">
+     <property name="text">
+      <string>Salão de esportes</string>
+     </property>
+    </item>
+    <item row="58" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="59" column="0">
+     <property name="text">
+      <string>Salão de danças</string>
+     </property>
+    </item>
+    <item row="59" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="60" column="0">
+     <property name="text">
+      <string>Salão de bilhar, sala de jogos</string>
+     </property>
+    </item>
+    <item row="60" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="61" column="0">
+     <property name="text">
+      <string>Pista de boliche</string>
+     </property>
+    </item>
+    <item row="61" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="62" column="0">
+     <property name="text">
+      <string>Sanitários, vestiários</string>
+     </property>
+    </item>
+    <item row="62" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="63" column="0">
+     <property name="text">
+      <string>Cozinhas</string>
+     </property>
+    </item>
+    <item row="63" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="64" column="0">
+     <property name="text">
+      <string>Depósitos</string>
+     </property>
+    </item>
+    <item row="64" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="65" column="0">
+     <property name="text">
+      <string>Salas administrativas</string>
+     </property>
+    </item>
+    <item row="65" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="66" column="0">
+     <property name="text">
+      <string>Corredores</string>
+     </property>
+    </item>
+    <item row="66" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="67" column="0">
+     <property name="text">
+      <string>Quadras esportivas</string>
+     </property>
+    </item>
+    <item row="67" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="68" column="0">
+     <property name="text">
+      <string>Lavanderias (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="68" column="1">
+     <property name="text">
+      <string>-</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="69" column="0">
+     <property name="text">
+      <string>Com acesso apenas para manutenção ou inspeção</string>
+     </property>
+    </item>
+    <item row="69" column="1">
+     <property name="text">
+      <string>1</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="70" column="0">
+     <property name="text">
+      <string>Com placas de aquecimento solar ou fotovoltaicas</string>
+     </property>
+    </item>
+    <item row="70" column="1">
+     <property name="text">
+      <string>1,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="71" column="0">
+     <property name="text">
+      <string>Outros usos</string>
+     </property>
+    </item>
+    <item row="71" column="1">
+     <property name="text">
+      <string>conforme o item pertinente desta Tabela</string>
+     </property>
+    </item>
+    <item row="72" column="0">
+     <property name="text">
+      <string>Validar caso a caso, respeitando o valor mínimo indicado nesta Tabela</string>
+     </property>
+    </item>
+    <item row="72" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="73" column="0">
+     <property name="text">
+      <string>Câmara fria</string>
+     </property>
+    </item>
+    <item row="73" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="74" column="0">
+     <property name="text">
+      <string>Validar caso a caso, respeitando o valor mínimo indicado nesta Tabela</string>
+     </property>
+    </item>
+    <item row="74" column="1">
+     <property name="text">
+      <string>7,5 kN/m 2 até 2,5 m de altura de estoque + 3 kN/m 2 por metro de altura de estoque excedente</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="75" column="0">
+     <property name="text">
+      <string>Locais sujeitos ao acúmulo de mercadorias, incluindo zonas de acesso Materiais de armazenagem</string>
+     </property>
+    </item>
+    <item row="75" column="1">
+     <property name="text">
+      <string>7,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="76" column="0">
+     <property name="text">
+      <string>Supermercados</string>
+     </property>
+    </item>
+    <item row="76" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="77" column="0">
+     <property name="text">
+      <string>Dormitórios</string>
+     </property>
+    </item>
+    <item row="77" column="1">
+     <property name="text">
+      <string>1.5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="78" column="0">
+     <property name="text">
+      <string>Sala, copa, cozinha</string>
+     </property>
+    </item>
+    <item row="78" column="1">
+     <property name="text">
+      <string>1,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="79" column="0">
+     <property name="text">
+      <string>Sanitários</string>
+     </property>
+    </item>
+    <item row="79" column="1">
+     <property name="text">
+      <string>1,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="80" column="0">
+     <property name="text">
+      <string>Despensa, área de serviço e lavanderia</string>
+     </property>
+    </item>
+    <item row="80" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="81" column="0">
+     <property name="text">
+      <string>Quadras esportivas</string>
+     </property>
+    </item>
+    <item row="81" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="82" column="0">
+     <property name="text">
+      <string>Salão de festas, salão de jogos</string>
+     </property>
+    </item>
+    <item row="82" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="83" column="0">
+     <property name="text">
+      <string>Áreas de uso comum</string>
+     </property>
+    </item>
+    <item row="83" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="84" column="0">
+     <property name="text">
+      <string>Academia</string>
+     </property>
+    </item>
+    <item row="84" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="85" column="0">
+     <property name="text">
+      <string>Forro acessíveis apenas para manutenção e sem estoque de materiais</string>
+     </property>
+    </item>
+    <item row="85" column="1">
+     <property name="text">
+      <string>0,1</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="86" column="0">
+     <property name="text">
+      <string>Sótão</string>
+     </property>
+    </item>
+    <item row="86" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="87" column="0">
+     <property name="text">
+      <string>Corredores dentro de unidades autônomas</string>
+     </property>
+    </item>
+    <item row="87" column="1">
+     <property name="text">
+      <string>1,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="88" column="0">
+     <property name="text">
+      <string>Corredores de uso comum</string>
+     </property>
+    </item>
+    <item row="88" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="89" column="0">
+     <property name="text">
+      <string>Depósitos</string>
+     </property>
+    </item>
+    <item row="89" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="90" column="0">
+     <property name="text">
+      <string>Áreas técnicas (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="90" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="91" column="0">
+     <property name="text">
+      <string>Jardins (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="91" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="92" column="0">
+     <property name="text">
+      <string>Salas de uso geral e sanitários</string>
+     </property>
+    </item>
+    <item row="92" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="93" column="0">
+     <property name="text">
+      <string>Regiões de arquivos deslizantes</string>
+     </property>
+    </item>
+    <item row="93" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="94" column="0">
+     <property name="text">
+      <string>Call center</string>
+     </property>
+    </item>
+    <item row="94" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="95" column="0">
+     <property name="text">
+      <string>Corredores dentro de unidades autônomas</string>
+     </property>
+    </item>
+    <item row="95" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="96" column="0">
+     <property name="text">
+      <string>Corredores de uso comum</string>
+     </property>
+    </item>
+    <item row="96" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="97" column="0">
+     <property name="text">
+      <string>Áreas técnicas (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="97" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="98" column="0">
+     <property name="text">
+      <string>Jardins (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="98" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="99" column="0">
+     <property name="text">
+      <string>Áreas de produção, processos, manufatura etc.</string>
+     </property>
+    </item>
+    <item row="99" column="1">
+     <property name="text">
+      <string>-</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="100" column="0">
+     <property name="text">
+      <string>Refeitórios</string>
+     </property>
+    </item>
+    <item row="100" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="101" column="0">
+     <property name="text">
+      <string>Sanitários, vestiários</string>
+     </property>
+    </item>
+    <item row="101" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="102" column="0">
+     <property name="text">
+      <string>Cozinhas</string>
+     </property>
+    </item>
+    <item row="102" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="103" column="0">
+     <property name="text">
+      <string>Salas administrativas</string>
+     </property>
+    </item>
+    <item row="103" column="1">
+     <property name="text">
+      <string>2.5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="104" column="0">
+     <property name="text">
+      <string>Corredores</string>
+     </property>
+    </item>
+    <item row="104" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="105" column="0">
+     <property name="text">
+      <string>Áreas técnicas (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="105" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="106" column="0">
+     <property name="text">
+      <string>Hospitais</string>
+     </property>
+    </item>
+    <item row="106" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="107" column="0">
+     <property name="text">
+      <string>Residenciais, hotéis (dentro de unidades autônomas)</string>
+     </property>
+    </item>
+    <item row="107" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="108" column="0">
+     <property name="text">
+      <string>Residenciais, hotéis (uso comum)</string>
+     </property>
+    </item>
+    <item row="108" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="109" column="0">
+     <property name="text">
+      <string>Edifícios comerciais, clubes, escritórios, bibliotecas</string>
+     </property>
+    </item>
+    <item row="109" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="110" column="0">
+     <property name="text">
+      <string>Centros de exposição</string>
+     </property>
+    </item>
+    <item row="110" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="111" column="0">
+     <property name="text">
+      <string>Centros de convenções e locais de reunião de pessoas, teatros, igrejas</string>
+     </property>
+    </item>
+    <item row="111" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="112" column="0">
+     <property name="text">
+      <string>Escolas</string>
+     </property>
+    </item>
+    <item row="112" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="113" column="0">
+     <property name="text">
+      <string>Cinemas, centros comerciais, shopping centers</string>
+     </property>
+    </item>
+    <item row="113" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="114" column="0">
+     <property name="text">
+      <string>Servindo arquibancadas</string>
+     </property>
+    </item>
+    <item row="114" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="115" column="0">
+     <property name="text">
+      <string>Com acesso público</string>
+     </property>
+    </item>
+    <item row="115" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="116" column="0">
+     <property name="text">
+      <string>Sem acesso público</string>
+     </property>
+    </item>
+    <item row="116" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="117" column="0">
+     <property name="text">
+      <string>Auditório com assentos fixos</string>
+     </property>
+    </item>
+    <item row="117" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="118" column="0">
+     <property name="text">
+      <string>Auditório com assentos móveis</string>
+     </property>
+    </item>
+    <item row="118" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="119" column="0">
+     <property name="text">
+      <string>Corredor</string>
+     </property>
+    </item>
+    <item row="119" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="120" column="0">
+     <property name="text">
+      <string>Sala de aula</string>
+     </property>
+    </item>
+    <item row="120" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="121" column="0">
+     <property name="text">
+      <string>Salas administrativas</string>
+     </property>
+    </item>
+    <item row="121" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="122" column="0">
+     <property name="text">
+      <string>Dormitórios</string>
+     </property>
+    </item>
+    <item row="122" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="123" column="0">
+     <property name="text">
+      <string>Cafés, restaurantes</string>
+     </property>
+    </item>
+    <item row="123" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="124" column="0">
+     <property name="text">
+      <string>Salão de esportes, academia</string>
+     </property>
+    </item>
+    <item row="124" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="125" column="0">
+     <property name="text">
+      <string>Salão de danças</string>
+     </property>
+    </item>
+    <item row="125" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="126" column="0">
+     <property name="text">
+      <string>Sanitários, vestiários</string>
+     </property>
+    </item>
+    <item row="126" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="127" column="0">
+     <property name="text">
+      <string>Cozinhas</string>
+     </property>
+    </item>
+    <item row="127" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="128" column="0">
+     <property name="text">
+      <string>Depósitos</string>
+     </property>
+    </item>
+    <item row="128" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="129" column="0">
+     <property name="text">
+      <string>Laboratórios</string>
+     </property>
+    </item>
+    <item row="129" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="130" column="0">
+     <property name="text">
+      <string>Regiões de arquivos deslizantes</string>
+     </property>
+    </item>
+    <item row="130" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="131" column="0">
+     <property name="text">
+      <string>Quadras esportivas</string>
+     </property>
+    </item>
+    <item row="131" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="132" column="0">
+     <property name="text">
+      <string>Biblioteca (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="132" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="133" column="0">
+     <property name="text">
+      <string>Áreas técnicas (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="133" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="134" column="0">
+     <property name="text">
+      <string>Acessos, escadas, corredores e plataformas (estações de trens, metrôs, ônibus, portos)</string>
+     </property>
+    </item>
+    <item row="134" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="135" column="0">
+     <property name="text">
+      <string>Aeroportos (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="135" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="136" column="0">
+     <property name="text">
+      <string>Áreas sujeitas ao tráfego de veículos (ver 6.6)</string>
+     </property>
+    </item>
+    <item row="136" column="1">
+     <property name="text">
+      <string>-</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="137" column="0">
+     <property name="text">
+      <string>Acessíveis apenas para manutenção e sem estoque de materiais</string>
+     </property>
+    </item>
+    <item row="137" column="1">
+     <property name="text">
+      <string>0,1</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="138" column="1">
+     <property name="text">
+      <string>-</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="139" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="140" column="1">
+     <property name="text">
+      <string>-</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="141" column="0">
+     <property name="text">
+      <string>Dormitórios, enfermaria, sala de recuperação, sanitários</string>
+     </property>
+    </item>
+    <item row="141" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="142" column="0">
+     <property name="text">
+      <string>Sala de raios X, sala de cirurgia</string>
+     </property>
+    </item>
+    <item row="142" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="143" column="0">
+     <property name="text">
+      <string>Laboratório</string>
+     </property>
+    </item>
+    <item row="143" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="144" column="0">
+     <property name="text">
+      <string>Corredores</string>
+     </property>
+    </item>
+    <item row="144" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="145" column="0">
+     <property name="text">
+      <string>Sala de refeições, café, restaurante</string>
+     </property>
+    </item>
+    <item row="145" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="146" column="0">
+     <property name="text">
+      <string>Depósitos</string>
+     </property>
+    </item>
+    <item row="146" column="1">
+     <property name="text">
+      <string>20 kN/m2 até 3 m de altura de estoque + 5 kN/m 2 por metro de altura de estoque excedente</string>
+     </property>
+    </item>
+    <item row="147" column="0">
+     <property name="text">
+      <string>Salas administrativas</string>
+     </property>
+    </item>
+    <item row="147" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="148" column="0">
+     <property name="text">
+      <string>Áreas técnicas (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="148" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="149" column="0">
+     <property name="text">
+      <string>Dormitórios</string>
+     </property>
+    </item>
+    <item row="149" column="1">
+     <property name="text">
+      <string>1,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="150" column="0">
+     <property name="text">
+      <string>Sanitários dentro de unidades autônomas</string>
+     </property>
+    </item>
+    <item row="150" column="1">
+     <property name="text">
+      <string>1,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="151" column="0">
+     <property name="text">
+      <string>Demais sanitários, vestiários</string>
+     </property>
+    </item>
+    <item row="151" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="152" column="0">
+     <property name="text">
+      <string>Salão de esportes, academia</string>
+     </property>
+    </item>
+    <item row="152" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="153" column="0">
+     <property name="text">
+      <string>Salão de festas, salão de jogos</string>
+     </property>
+    </item>
+    <item row="153" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="154" column="0">
+     <property name="text">
+      <string>Áreas de uso comum</string>
+     </property>
+    </item>
+    <item row="154" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="155" column="0">
+     <property name="text">
+      <string>Corredores de unidades autônomas</string>
+     </property>
+    </item>
+    <item row="155" column="1">
+     <property name="text">
+      <string>1,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="156" column="0">
+     <property name="text">
+      <string>Corredores de uso comum</string>
+     </property>
+    </item>
+    <item row="156" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="157" column="0">
+     <property name="text">
+      <string>Restaurante</string>
+     </property>
+    </item>
+    <item row="157" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="158" column="0">
+     <property name="text">
+      <string>Sala de assembleia com assentos fixos</string>
+     </property>
+    </item>
+    <item row="158" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="159" column="0">
+     <property name="text">
+      <string>Sala de assembleia com assentos móveis</string>
+     </property>
+    </item>
+    <item row="159" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="160" column="0">
+     <property name="text">
+      <string>Cozinhas</string>
+     </property>
+    </item>
+    <item row="160" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="161" column="0">
+     <property name="text">
+      <string>Depósitos</string>
+     </property>
+    </item>
+    <item row="161" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="162" column="0">
+     <property name="text">
+      <string>Salas administrativas</string>
+     </property>
+    </item>
+    <item row="162" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="163" column="0">
+     <property name="text">
+      <string>Áreas técnicas (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="163" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="164" column="0">
+     <property name="text">
+      <string>Lavanderias (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="164" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="165" column="0">
+     <property name="text">
+      <string>Celas</string>
+     </property>
+    </item>
+    <item row="165" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="166" column="0">
+     <property name="text">
+      <string>Corredores</string>
+     </property>
+    </item>
+    <item row="166" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="167" column="0">
+     <property name="text">
+      <string>Sanitários</string>
+     </property>
+    </item>
+    <item row="167" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="168" column="0">
+     <property name="text">
+      <string>Salas administrativas</string>
+     </property>
+    </item>
+    <item row="168" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="169" column="0">
+     <property name="text">
+      <string>Com possibilidade de acesso de pessoas</string>
+     </property>
+    </item>
+    <item row="169" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="170" column="0">
+     <property name="text">
+      <string>Sem possibilidade de acesso de pessoas (somente acesso de manutenção)</string>
+     </property>
+    </item>
+    <item row="170" column="1">
+     <property name="text">
+      <string>1</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="171" column="0">
+     <property name="text">
+      <string>Incluindo equipamentos</string>
+     </property>
+    </item>
+    <item row="171" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="172" column="0">
+     <property name="text">
+      <string>Incluindo equipamentos</string>
+     </property>
+    </item>
+    <item row="172" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="173" column="0">
+     <property name="text">
+      <string>Circulações e lojas em geral</string>
+     </property>
+    </item>
+    <item row="173" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="174" column="0">
+     <property name="text">
+      <string>Lojas com mezanino metálico (inclui o peso próprio do mezanino e sua carga de uso)</string>
+     </property>
+    </item>
+    <item row="174" column="1">
+     <property name="text">
+      <string>7,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="175" column="0">
+     <property name="text">
+      <string>Mezanino metálico (apenas carga de uso)</string>
+     </property>
+    </item>
+    <item row="175" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="176" column="0">
+     <property name="text">
+      <string>Praça de alimentação - área de público</string>
+     </property>
+    </item>
+    <item row="176" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="177" column="0">
+     <property name="text">
+      <string>Praça de alimentação - área de cozinhas e serviços</string>
+     </property>
+    </item>
+    <item row="177" column="1">
+     <property name="text">
+      <string>7,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="178" column="0">
+     <property name="text">
+      <string>Cinema e teatro (apenas carga de uso, plateia com assentos fixos)</string>
+     </property>
+    </item>
+    <item row="178" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="179" column="0">
+     <property name="text">
+      <string>Cinema e teatro (acessos e corredores)</string>
+     </property>
+    </item>
+    <item row="179" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="180" column="0">
+     <property name="text">
+      <string>Cinema e teatro (piso que o suporta)</string>
+     </property>
+    </item>
+    <item row="180" column="1">
+     <property name="text">
+      <string>12,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="181" column="0">
+     <property name="text">
+      <string>Sanitários</string>
+     </property>
+    </item>
+    <item row="181" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="182" column="0">
+     <property name="text">
+      <string>Depósitos</string>
+     </property>
+    </item>
+    <item row="182" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="183" column="0">
+     <property name="text">
+      <string>Salas administrativas</string>
+     </property>
+    </item>
+    <item row="183" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="184" column="0">
+     <property name="text">
+      <string>Região de terminais de autoatendimento, caixas eletrônicos</string>
+     </property>
+    </item>
+    <item row="184" column="1">
+     <property name="text">
+      <string>12</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="185" column="0">
+     <property name="text">
+      <string>Supermercados (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="185" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="186" column="0">
+     <property name="text">
+      <string>Áreas técnicas (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="186" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="187" column="0">
+     <property name="text">
+      <string>Áreas de exposição</string>
+     </property>
+    </item>
+    <item row="187" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="188" column="0">
+     <property name="text">
+      <string>Sanitários</string>
+     </property>
+    </item>
+    <item row="188" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="189" column="0">
+     <property name="text">
+      <string>Depósitos</string>
+     </property>
+    </item>
+    <item row="189" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="190" column="0">
+     <property name="text">
+      <string>Salas administrativas</string>
+     </property>
+    </item>
+    <item row="190" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="191" column="0">
+     <property name="text">
+      <string>Acessos, corredores</string>
+     </property>
+    </item>
+    <item row="191" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="192" column="0">
+     <property name="text">
+      <string>Salão</string>
+     </property>
+    </item>
+    <item row="192" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="193" column="0">
+     <property name="text">
+      <string>Sanitários</string>
+     </property>
+    </item>
+    <item row="193" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="194" column="0">
+     <property name="text">
+      <string>Depósitos</string>
+     </property>
+    </item>
+    <item row="194" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="195" column="0">
+     <property name="text">
+      <string>Salas administrativas</string>
+     </property>
+    </item>
+    <item row="195" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="196" column="0">
+     <property name="text">
+      <string>Cozinha (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="196" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="197" column="0">
+     <property name="text">
+      <string>Salão de vendas com gôndolas, balcões com ou sem refrigeração</string>
+     </property>
+    </item>
+    <item row="197" column="1">
+     <property name="text">
+      <string>8</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="198" column="0">
+     <property name="text">
+      <string>Salão de vendas com porta-paletes</string>
+     </property>
+    </item>
+    <item row="198" column="1">
+     <property name="text">
+      <string>20 kN/m 2 até 3 m de altura de estoque + 3 kN/m 2 por metro de altura de estoque excedente </string>
+     </property>
+    </item>
+    <item row="199" column="0">
+     <property name="text">
+      <string>Depósitos (com ou sem porta-paletes)</string>
+     </property>
+    </item>
+    <item row="199" column="1">
+     <property name="text">
+      <string>20 kN/m 2 até 3 m de altura de estoque + 5 kN/m 2 por metro de altura de estoque excedente</string>
+     </property>
+    </item>
+    <item row="200" column="0">
+     <property name="text">
+      <string>Padaria, açougue, peixaria, frios e demais áreas de manipulação de alimentos</string>
+     </property>
+    </item>
+    <item row="200" column="1">
+     <property name="text">
+      <string>8</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="201" column="0">
+     <property name="text">
+      <string>Área de caixas (check outs)</string>
+     </property>
+    </item>
+    <item row="201" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="202" column="0">
+     <property name="text">
+      <string>Sanitários</string>
+     </property>
+    </item>
+    <item row="202" column="1">
+     <property name="text">
+      <string>2</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="203" column="0">
+     <property name="text">
+      <string>Salas administrativas</string>
+     </property>
+    </item>
+    <item row="203" column="1">
+     <property name="text">
+      <string>2,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="204" column="0">
+     <property name="text">
+      <string>Região de terminais de autoatendimento, caixas eletrônicos</string>
+     </property>
+    </item>
+    <item row="204" column="1">
+     <property name="text">
+      <string>12</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="205" column="0">
+     <property name="text">
+      <string>Salas-cofre, salas-forte</string>
+     </property>
+    </item>
+    <item row="205" column="1">
+     <property name="text">
+      <string>10</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="206" column="0">
+     <property name="text">
+      <string>Áreas técnicas (ver item nesta Tabela)</string>
+     </property>
+    </item>
+    <item row="206" column="1">
+     <property name="text">
+      <string>tabela</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="207" column="0">
+     <property name="text">
+      <string>Sem acesso público</string>
+     </property>
+    </item>
+    <item row="207" column="1">
+     <property name="text">
+      <string>11,5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="208" column="0">
+     <property name="text">
+      <string>Com acesso público</string>
+     </property>
+    </item>
+    <item row="208" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="209" column="0">
+     <property name="text">
+      <string>Residenciais, hotéis, hospitais (uso comum)</string>
+     </property>
+    </item>
+    <item row="209" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="210" column="0">
+     <property name="text">
+      <string>Edifícios comerciais, corporativos e de escritórios</string>
+     </property>
+    </item>
+    <item row="210" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="211" column="0">
+     <property name="text">
+      <string>Clubes, escolas, bibliotecas</string>
+     </property>
+    </item>
+    <item row="211" column="1">
+     <property name="text">
+      <string>3</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="212" column="0">
+     <property name="text">
+      <string>Centros de convenções e locais de reunião de pessoas, teatros, igrejas</string>
+     </property>
+    </item>
+    <item row="212" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="213" column="0">
+     <property name="text">
+      <string>Cinemas, centros comerciais, shopping centers</string>
+     </property>
+    </item>
+    <item row="213" column="1">
+     <property name="text">
+      <string>4</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+    <item row="214" column="0">
+     <property name="text">
+      <string>Servindo arquibancadas</string>
+     </property>
+    </item>
+    <item row="214" column="1">
+     <property name="text">
+      <string>5</string>
+     </property>
+     <property name="textAlignment">
+      <set>AlignCenter</set>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>20</y>
+      <width>241</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Carrregamentos Adicionais&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="textFormat">
+     <enum>Qt::AutoText</enum>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>20</y>
+      <width>251</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Informações extraídas da NBR 6120/19 - Tabela 10.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>655</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
