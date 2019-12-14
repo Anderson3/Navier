@@ -28,3 +28,6 @@ O Navier permite cálcular como elementos:
     </ul>
   </li>
 </ul>
+
+## Nomenclatura
+O nome Navier foi dado como homenagem ao engenheiro "Claude Louis Marie Henri Navier", que fora sorteado entre outros grande nomes da engenharia no mundo.
