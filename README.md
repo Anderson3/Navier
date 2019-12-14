@@ -33,11 +33,11 @@ O Navier permite cálcular como elementos:
 </ul>
 
 ## Imagens
-![image](https://user-images.githubusercontent.com/17939997/70843045-63bc1c00-1e0a-11ea-8746-b76c59e105ab.png)
 ![image](https://user-images.githubusercontent.com/17939997/70843053-9534e780-1e0a-11ea-8eb4-6caa118e6193.png)
 ![image](https://user-images.githubusercontent.com/17939997/70843057-abdb3e80-1e0a-11ea-8ce6-886ad7d0dc9d.png)
 ![image](https://user-images.githubusercontent.com/17939997/70843063-c2819580-1e0a-11ea-8450-c92c5fbc874b.png)
 ![image](https://user-images.githubusercontent.com/17939997/70843068-d62cfc00-1e0a-11ea-8cdf-ebe09f7e85a9.png)
+
 
 ## Nomenclatura
 O nome Navier foi dado como homenagem ao engenheiro "Claude Louis Marie Henri Navier", que fora sorteado entre outros grande nomes da engenharia no mundo.
