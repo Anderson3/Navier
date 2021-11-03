@@ -1,5 +1,6 @@
 # Navier
 Software de cálculo de peças de concreto armado, baseado na NBR 6118/14. Desenvolvido com Python 3.7 + PyQt5.
+<p></p>
 ![image](https://user-images.githubusercontent.com/17939997/70842933-d2987580-1e08-11ea-824c-51b98e1c73d8.png)
 
 ## Pequena Descrição
